@@ -1,0 +1,21 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.51 clang-802.0.41)"
+options: "88ea4f2c7540b3a98423f1562d60aeae"
+build_time: [566776964, 467417000]
+inputs:
+  "/Users/anuthakur/Desktop/SPLYT-master/Pods/Alamofire/Source/AFError.swift": [566768735, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/Pods/Alamofire/Source/Alamofire.swift": [566768735, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [566768735, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/Pods/Alamofire/Source/MultipartFormData.swift": [566768735, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [566768735, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/Pods/Alamofire/Source/Notifications.swift": [566768735, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/Pods/Alamofire/Source/ParameterEncoding.swift": [566768735, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/Pods/Alamofire/Source/Request.swift": [566768735, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/Pods/Alamofire/Source/Response.swift": [566768735, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/Pods/Alamofire/Source/ResponseSerialization.swift": [566768735, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/Pods/Alamofire/Source/Result.swift": [566768735, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/Pods/Alamofire/Source/ServerTrustPolicy.swift": [566768735, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/Pods/Alamofire/Source/SessionDelegate.swift": [566768735, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/Pods/Alamofire/Source/SessionManager.swift": [566768735, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/Pods/Alamofire/Source/TaskDelegate.swift": [566768735, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/Pods/Alamofire/Source/Timeline.swift": [566768735, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/Pods/Alamofire/Source/Validation.swift": [566768735, 0]

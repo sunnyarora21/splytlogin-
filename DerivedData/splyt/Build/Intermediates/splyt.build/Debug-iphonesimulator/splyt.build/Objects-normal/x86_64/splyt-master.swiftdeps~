@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.51 clang-802.0.41)"
+options: "e63c118287a1201f82b231d80f35e7e5"
+build_time: [566841622, 858270000]
+inputs:
+  "/Users/anuthakur/Desktop/SPLYT-master/splyt/LoginViewController.swift": [566841610, 0]
+  "/Users/anuthakur/Downloads/GlobalConstants.swift": [566758832, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/splyt/ViewController.swift": [566757967, 0]
+  "/Users/anuthakur/Downloads/Utility.swift": [566771588, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/splyt/SuccesFullRegistrationViewController.swift": [566466094, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/splyt/AppDelegate.swift": [566841178, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/splyt/PhoneNoVerificationViewController.swift": [566759792, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/splyt/ForgetPasswordViewController.swift": [566466094, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/splyt/SignUpViewController.swift": [566778226, 0]

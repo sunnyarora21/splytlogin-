@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.51 clang-802.0.41)"
+options: "5bb6d4b8ad8f6b114e5f54ff36a2c2d6"
+build_time: [566776994, 936933000]
+inputs:
+  "/Users/anuthakur/Desktop/SPLYT-master/Pods/FacebookLogin/Sources/Login/LoginBehavior.swift": [566768902, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/Pods/FacebookLogin/Sources/Login/LoginButton.swift": [566768902, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/Pods/FacebookLogin/Sources/Login/LoginButton.Tooltip.swift": [566768902, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/Pods/FacebookLogin/Sources/Login/LoginButtonDelegate.swift": [566768902, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/Pods/FacebookLogin/Sources/Login/LoginButtonDelegateBridge.swift": [566768902, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/Pods/FacebookLogin/Sources/Login/LoginDefaultAudience.swift": [566768902, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/Pods/FacebookLogin/Sources/Login/LoginManager.swift": [566768902, 0]
+  "/Users/anuthakur/Desktop/SPLYT-master/Pods/FacebookLogin/Sources/Login/LoginResult.swift": [566768902, 0]
